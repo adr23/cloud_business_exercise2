@@ -1,0 +1,32 @@
+body {
+    background-color: #ffd9e6; /* Light pink background */
+    margin: 0;
+    font-family: 'cursive', sans-serif; /* Fancy font style */
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    background-color: #3366cc; /* Blue box for the header */
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #3366cc; /* Blue button color */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #25447e; /* Darker blue on hover */
+}
